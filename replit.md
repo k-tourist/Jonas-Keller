@@ -117,7 +117,8 @@ This is a full-stack web application showcasing a personal portfolio website for
 ## Changelog
 ```
 Changelog:
-- June 20, 2025. Initial setup
+- June 20, 2025. Initial setup - Created modern portfolio with animations, timeline, skills, projects
+- June 20, 2025. Fixed Vercel deployment - Added proper build configuration and deployment guide
 ```
 
 ## User Preferences
